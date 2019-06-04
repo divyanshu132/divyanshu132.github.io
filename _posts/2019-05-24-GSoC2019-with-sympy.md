@@ -18,11 +18,11 @@ The first phase is the _Community Bonding Period_, which has nearly come to an e
 
  - Setting up blog and synchronizing it with planet sympy.
 
- - Discussing possible means of communication, weekly meetings etc.
+ - Discussing possible means of communication etc.
 
  - Planning the implementation of some of the features of the project with Kalevi.
 
- - Familiarizing with the codebase of sympy/combinatorics and see how it may help solving the problems while implementing the project.
+ - Familiarizing with the codebase of `sympy/combinatorics` and see how it may help solving the problems while implementing the project.
 
  - Getting more in-depth theoretical knowledge of the features to be implemented.
 
